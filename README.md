@@ -12,7 +12,6 @@ So, I created this repository to change the url to stable one.
 ```
 heroku buildpacks:add --index 1 https://github.com/akishoudayo/ffmpeg-heroku.git
 ```
-or
-
-Add to buildpack `https://github.com/akishoudayo/ffmpeg-heroku.git`
+or Add to buildpack
+`https://github.com/akishoudayo/ffmpeg-heroku.git`
 
